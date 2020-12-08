@@ -1,11 +1,11 @@
-# Bank
+# Calculadora
 
 **TODO: Add description**
 
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `bank` to your list of dependencies in `mix.exs`:
+by adding `calculadora` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
