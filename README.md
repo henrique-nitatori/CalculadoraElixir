@@ -10,7 +10,7 @@ by adding `bank` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:bank, "~> 0.1.0"}
+    {:Calculadora, "~> 0.1.0"}
   ]
 end
 ```
